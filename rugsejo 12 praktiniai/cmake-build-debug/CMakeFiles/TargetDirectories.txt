@@ -1,3 +1,0 @@
-C:/Users/s056941/Documents/strukturiniai-darbai/rugsejo 12 praktiniai/cmake-build-debug/CMakeFiles/rugsejo_12_praktiniai.dir
-C:/Users/s056941/Documents/strukturiniai-darbai/rugsejo 12 praktiniai/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/s056941/Documents/strukturiniai-darbai/rugsejo 12 praktiniai/cmake-build-debug/CMakeFiles/rebuild_cache.dir
